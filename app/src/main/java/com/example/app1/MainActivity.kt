@@ -67,7 +67,7 @@ fun Greeting(name: String) {
 
         Column{
             Image(
-                painter = painterResource(id = R.drawable.user_avatar),
+                painter = painterResource(id = R.drawable.fotolinkedin),
                 contentDescription = null,
                 modifier = Modifier.width(200.dp)
             )
